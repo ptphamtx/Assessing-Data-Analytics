@@ -8,7 +8,7 @@ Over the past semesters, I have developed a strong, practice-oriented competency
 
 ### Data Cleaning & Preparation
 - I can extract and clean datasets, handle missingness, standardize types, normalize categorical levels.  
-- I apply validation checks (row counts, range checks, duplicate keys, referential “joins sanity”) and keep before/after metrics so changes are auditable.
+- I apply validation checks (row counts, range checks, duplicate keys) and keep before/after metrics so changes are auditable.
 
 ### Excel Analytics
 - Pivot tables: Cohort summaries, and contribution analysis.  
