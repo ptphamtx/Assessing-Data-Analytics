@@ -47,11 +47,9 @@ In communication, I occasionally provide more context than needed. While thoroug
 
 ## Supporting Work / Knowledge
 
-- **Data Analytics Course 1**: Data cleaning + preparation, pivot/XLOOKUP workflows, early Lean Six Sigma artifacts and metrics.  
-  Repository: [GitHub Link](https://github.com/ptphamtx/Data-Analytics-1/tree/main)
+- **Data Analytics Course 1**: [GitHub Link](https://github.com/ptphamtx/Data-Analytics-1/tree/main)
 
-- **Data Analytics Course 2**: Predictive modeling (classification/regression), Tableau dashboards, EDA → modeling → communication.  
-  Repository: [GitHub Link](https://github.com/ptphamtx/Data-Analytics-2/tree/main)
+- **Data Analytics Course 2**: [GitHub Link](https://github.com/ptphamtx/Data-Analytics-2/tree/main)
 
 - **DataCamp Courses**:  
   - Data preparation in PowerBI: [Google Drive Link](https://drive.google.com/file/d/1Y6UaGliStjpzDWfzUGV_-HXl2bQZBpa9/view?usp=sharing)  
